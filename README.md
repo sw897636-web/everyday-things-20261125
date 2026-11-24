@@ -8,11 +8,11 @@ A two-line explanation of an everyday thing — a traffic jam — for a 10-year-
 
 ## The entry
 
-> A traffic jam is an upside-down ketchup bottle: hundreds of cars squeeze toward the tiny neck, and only a thin line can drip out at a time.
+> A traffic jam is the lunch line after one kid drops his tray: he stops for two seconds, everyone behind him bumps to a halt, and kids way at the back are still stuck long after he's sat down.
 >
-> It maps how a narrow neck turns a crowd into a slow trickle, but it leaves out that drivers pick their own speed and lane while ketchup only gets pushed, and that a jam can clear by itself without anyone squeezing the bottle.
+> It works because a jam isn't a pile of cars, it's a stop that travels backward: each driver brakes a little later and harder than the one ahead, so the wave outlives whatever started it.
 
-Line 1 explains the traffic jam with a single analogy a 10-year-old can see, hold, and squeeze: a ketchup bottle. Line 2 is honest about what that analogy maps (the bottleneck turning a crowd into a trickle) and what it leaves out (drivers choose their own speed and lane; a jam can clear on its own with nobody squeezing).
+Line 1 explains the traffic jam with a single analogy a 10-year-old can see: a lunch line after one kid drops his tray. Line 2 says why the analogy works — a jam isn't a pile of cars, it's a stop that travels backward, each driver braking a little later and harder than the one ahead, so the wave outlives whatever started it.
 
 ## How it works
 

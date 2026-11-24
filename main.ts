@@ -5,12 +5,12 @@
 // Line 1 explains a traffic jam to a 10-year-old with one vivid analogy.
 // Line 2 says why the analogy works: what it maps and what it leaves out.
 
-// v2 (revised): "tipped on its side" -> "upside-down": ketchup only drips
-// out of the neck when the bottle is upside-down; on its side it just
-// pools. "melt away" -> "clear by itself": plainer, no second image.
+// v3 (Quick Smart review): lunch line after a dropped tray replaces the
+// ketchup-bottle draft: a jam is a stop that travels backward, each driver
+// braking a little later and harder than the one ahead.
 const ENTRY =
-  "A traffic jam is an upside-down ketchup bottle: hundreds of cars squeeze toward the tiny neck, and only a thin line can drip out at a time.\n" +
-  "It maps how a narrow neck turns a crowd into a slow trickle, but it leaves out that drivers pick their own speed and lane while ketchup only gets pushed, and that a jam can clear by itself without anyone squeezing the bottle.\n";
+  "A traffic jam is the lunch line after one kid drops his tray: he stops for two seconds, everyone behind him bumps to a halt, and kids way at the back are still stuck long after he's sat down.\n" +
+  "It works because a jam isn't a pile of cars, it's a stop that travels backward: each driver brakes a little later and harder than the one ahead, so the wave outlives whatever started it.\n";
 
 function main(): void {
   const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
